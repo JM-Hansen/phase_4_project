@@ -32,6 +32,21 @@ Recommendations
 
 ### Visuals
 
+Class counts in training dataset for Pneumonia and Normal 
+
+![class_imbalance_train-Copy1](https://user-images.githubusercontent.com/104652254/227075870-6a430426-5e11-48f8-90e0-ceaf8343e0e0.png)
+
+Normal Lung Image - Pediatric
+
+![IM-0001-0001 copy](https://user-images.githubusercontent.com/104652254/227076755-aa2d4748-dea9-4515-8c55-bc15156d6dce.jpeg)
+
+Viral Origin Pneumonia Image - Pediatric
+
+![person3_virus_15 copy](https://user-images.githubusercontent.com/104652254/227077723-b0c96b7a-9f15-4589-81d5-ce7417e9c379.jpg)
+
+Bacterial Origin Pneumonia Image - Pediatric
+
+![person78_bacteria_380 copy](https://user-images.githubusercontent.com/104652254/227077729-f61dd398-0ace-4a22-b91a-0135fbe02440.jpg)
 
 
 ### Results
