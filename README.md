@@ -12,7 +12,7 @@ Intermountain Health Care (IHC) is a not-for-profit healthcare system based in U
 
 ### Dataset Description
 
-The dataset was collated from past patients at the Guangzhou Women and Children’s Medical Center in Guangzhou, China. The data contains a total of 5,856 x-ray images (anterior - posterior) of pediatric patients under the age of 5 years old. The dataset is divided into three folders made up of jpegs: training, validation, and test folders. Each folder contains two classes: Normal and Pneumonia. The images were previously labeled and validated by two expert physicians. To further reduce error a third expert validated their work.
+The dataset was collated from past patients at the Guangzhou Women and Children’s Medical Center in Guangzhou, China. The data contains a total of 5,856 x-ray images (anterior - posterior) of pediatric patients under the age of 5 years old. The dataset is divided into three folders made up of jpegs: training, validation, and test folders. Each folder contains two classes: Normal and Pneumonia. The images were previously labeled and validated by two expert physicians. To further reduce error a third expert validated their work. The data is available from Kaggle at https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 ### Modeling Goals
 
