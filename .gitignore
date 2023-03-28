@@ -130,3 +130,5 @@ dmypy.json
 
 chest_xray/
 saved_models/
+
+.DS_Store
