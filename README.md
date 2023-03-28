@@ -48,7 +48,10 @@ Bacterial Origin Pneumonia Image - Pediatric
 
 ![person78_bacteria_380 copy](https://user-images.githubusercontent.com/104652254/227077729-f61dd398-0ace-4a22-b91a-0135fbe02440.jpg)
 
-![visual_model_2.png] (~/Desktop/FlatIron_Projects/Phase_4/phase_4_project/images/visual_model_2.png)
+Simplified version of final model showing stacked layers for image input, consolidating features of images, pattern recognition and output
+predicting normal lungs or lungs with pneumonia
+
+![visual_model_2](https://user-images.githubusercontent.com/104652254/228125285-f505d480-a830-422b-8e0d-dd95fd703c36.png)
 
 ### Results
 
